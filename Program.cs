@@ -39,15 +39,20 @@ class Program {
     }
 
     static void AddTicket() {
-        Console.Write("Enter ticket description: ");
-        string desc = Console.ReadLine();
-        if (string.IsNullOrEmpty(desc)) {
-            Console.WriteLine("Description cannot be empty!");
-            return;
-        }
-        tickets.Add(new Ticket(nextId++, desc));
-        Console.WriteLine("Ticket added successfully!");
+    Console.Write("Enter ticket description: ");
+    string desc = Console.ReadLine();
+    if (string.IsNullOrEmpty(desc)) {
+        Console.WriteLine("Description cannot be empty!");
+        return;
     }
+    // Check for existing ID
+    if (tickets.Any(t => t.Id == nextId)) {
+        Console.WriteLine("Duplicate ID detected—fixing by incrementing...");
+        nextId++; // Simple fix: increment if duplicate
+    }
+    tickets.Add(new Ticket(nextId++, desc));
+    Console.WriteLine("Ticket added successfully!");
+}
 
     static void ViewTickets() {
         if (tickets.Count == 0) {
