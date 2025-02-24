@@ -1,0 +1,14 @@
+C:\Users\dladl\Documents\CSTicketingSystem\bin\Debug\net9.0\CSTicketingSystem.exe
+C:\Users\dladl\Documents\CSTicketingSystem\bin\Debug\net9.0\CSTicketingSystem.deps.json
+C:\Users\dladl\Documents\CSTicketingSystem\bin\Debug\net9.0\CSTicketingSystem.runtimeconfig.json
+C:\Users\dladl\Documents\CSTicketingSystem\bin\Debug\net9.0\CSTicketingSystem.dll
+C:\Users\dladl\Documents\CSTicketingSystem\bin\Debug\net9.0\CSTicketingSystem.pdb
+C:\Users\dladl\Documents\CSTicketingSystem\obj\Debug\net9.0\CSTicketingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dladl\Documents\CSTicketingSystem\obj\Debug\net9.0\CSTicketingSystem.AssemblyInfoInputs.cache
+C:\Users\dladl\Documents\CSTicketingSystem\obj\Debug\net9.0\CSTicketingSystem.AssemblyInfo.cs
+C:\Users\dladl\Documents\CSTicketingSystem\obj\Debug\net9.0\CSTicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\dladl\Documents\CSTicketingSystem\obj\Debug\net9.0\CSTicketingSystem.dll
+C:\Users\dladl\Documents\CSTicketingSystem\obj\Debug\net9.0\refint\CSTicketingSystem.dll
+C:\Users\dladl\Documents\CSTicketingSystem\obj\Debug\net9.0\CSTicketingSystem.pdb
+C:\Users\dladl\Documents\CSTicketingSystem\obj\Debug\net9.0\CSTicketingSystem.genruntimeconfig.cache
+C:\Users\dladl\Documents\CSTicketingSystem\obj\Debug\net9.0\ref\CSTicketingSystem.dll
